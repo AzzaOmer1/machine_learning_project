@@ -1,2 +1,2 @@
-# The-Saviour
- Application to  help diabetes patients relative with doctors and what the rang of measuring the blood glucose level   
+# machine_learning_project
+ compair between different models to customer_churn_prediction in telecom industry to get the best accurate model.
